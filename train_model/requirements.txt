@@ -1,0 +1,6 @@
+click>=7.0
+numpy
+scipy
+pandas
+scikit-learn
+xgboost
